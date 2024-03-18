@@ -4,7 +4,7 @@ Javascript project for a drum machine that produces classic drum sounds
 
 ### Screenshot
 
-<img src='drumMachine.png' alt='screenshot' width='300'>
+<img src='drumMachine.png' alt='screenshot' width='700'>
 
 ## How to use
 
